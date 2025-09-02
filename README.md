@@ -1,44 +1,52 @@
-# Hi there, I'm an AI Engineer 🤖👋
+# 👋 Hi, I'm [Your Name]
 
-Welcome to my GitHub profile!  
-I am an AI Engineer with 2 years of experience crafting intelligent systems and scalable software solutions. Skilled in machine learning, deep learning, and full-stack development, I blend AI expertise with modern technologies to build impactful applications.
+🚀 **AI Engineer | Backend Developer | Cloud Enthusiast**  
+💡 Passionate about **LLMs, RAG pipelines, scalable APIs, and cloud-native solutions**  
+📍 Based in [Your Location] | 🌐 Open for collaborations  
 
 ---
-## 🚀 Technologies & Tools
+
+## 🧑‍💻 About Me
+- 🔭 Currently working on **AI-powered applications** and **enterprise RAG systems**  
+- 🌱 Exploring **multi-agent orchestration**, **FastAPI microservices**, and **MLOps**  
+- 💬 Ask me about **AI/ML, Backend Systems, and Cloud Deployments**  
+- 🎯 Goal: To build **production-grade AI systems** that scale  
+- ⚡ Fun fact: I enjoy turning complex AI ideas into simple real-world products  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,django,docker,fastapi,react,nodejs,typescript,javascript,postgres,mongodb,mysql,redis,githubactions" />
 </p>
----
-
-## 👨‍💻 About Me
-
-- Passionate about developing AI-driven applications that solve real-world problems.
-- Experienced in building RESTful APIs and microservices using FastAPI and Django.
-- Proficient in containerization with Docker for consistent and scalable deployments.
-- Skilled in front-end development with React and full-stack JavaScript/TypeScript stacks.
-- Extensive experience with SQL and NoSQL databases including PostgreSQL, MySQL, and MongoDB.
-- Strong understanding of cloud infrastructure and CI/CD pipelines, especially using AWS and GitHub Actions.
----
-
-## 🌱 Currently Learning / Exploring
-
-- Advanced Natural Language Processing techniques.
-- Reinforcement Learning applications.
-- Scalable AI infrastructure on cloud platforms.
----
-
-## 📫 How to reach me
-
-- [LinkedIn](https://linkedin.com/in/umangkalavadiya)
-- [Twitter](https://twitter.com/umangkalavadiya)
-- [Email](mailto:umang.kalavadiya@gmail.com)
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities. 🚀
 
 ---
 
-<!--
-This README was crafted with care using skillicons.dev icons and tailored for an AI Engineer profile.
--->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="165" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 [**Project 1**](#) – RAG-based Legal AI Assistant with OpenAI Vector Stores  
+- 🔹 [**Project 2**](#) – Financial Forecasting & Scenario Optimizer with FastAPI  
+- 🔹 [**Project 3**](#) – Next.js + FastAPI Chat Application with Realtime PDF Insights  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+
+---
+⭐️ From [Your Name](https://github.com/YOUR_GITHUB_USERNAME)

@@ -6,20 +6,7 @@ I am an AI Engineer with 2 years of experience crafting intelligent systems and 
 ---
 ## 🚀 Technologies & Tools
 
-![AWS](https://skillicons.dev/icons?i=aws)  
-![Django](https://skillicons.dev/icons?i=django)  
-![Docker](https://skillicons.dev/icons?i=docker)  
-![FastAPI](https://skillicons.dev/icons?i=fastapi)  
-![React](https://skillicons.dev/icons?i=react)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![TypeScript](https://skillicons.dev/icons?i=typescript)  
-![JavaScript](https://skillicons.dev/icons?i=javascript)  
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)  
-![MySQL](https://skillicons.dev/icons?i=mysql)  
-![Redis](https://skillicons.dev/icons?i=redis)  
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)  
-
+https://skillicons.dev/icons?i=aws,django,docker,fastapi,react,nodejs,typescript,javascript,postgres,mongodb,mysql,redis,githubactions,fastapi
 ---
 
 ## 👨‍💻 About Me

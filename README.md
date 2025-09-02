@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm an AI Engineer 🤖👋
+
+Welcome to my GitHub profile!  
+I am an AI Engineer with 2 years of experience crafting intelligent systems and scalable software solutions. Skilled in machine learning, deep learning, and full-stack development, I blend AI expertise with modern technologies to build impactful applications.
+
+---
+## 🚀 Technologies & Tools
+
+![AWS](https://skillicons.dev/icons?i=aws)  
+![Django](https://skillicons.dev/icons?i=django)  
+![Docker](https://skillicons.dev/icons?i=docker)  
+![FastAPI](https://skillicons.dev/icons?i=fastapi)  
+![React](https://skillicons.dev/icons?i=react)  
+![Node.js](https://skillicons.dev/icons?i=nodejs)  
+![TypeScript](https://skillicons.dev/icons?i=typescript)  
+![JavaScript](https://skillicons.dev/icons?i=javascript)  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)  
+![MySQL](https://skillicons.dev/icons?i=mysql)  
+![Redis](https://skillicons.dev/icons?i=redis)  
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)  
+
+---
+
+## 👨‍💻 About Me
+
+- Passionate about developing AI-driven applications that solve real-world problems.
+- Experienced in building RESTful APIs and microservices using FastAPI and Django.
+- Proficient in containerization with Docker for consistent and scalable deployments.
+- Skilled in front-end development with React and full-stack JavaScript/TypeScript stacks.
+- Extensive experience with SQL and NoSQL databases including PostgreSQL, MySQL, and MongoDB.
+- Strong understanding of cloud infrastructure and CI/CD pipelines, especially using AWS and GitHub Actions.
+---
+
+## 🌱 Currently Learning / Exploring
+
+- Advanced Natural Language Processing techniques.
+- Reinforcement Learning applications.
+- Scalable AI infrastructure on cloud platforms.
+---
+
+## 📫 How to reach me
+
+- [LinkedIn](https://linkedin.com/in/umangkalavadiya)
+- [Twitter](https://twitter.com/umangkalavadiya)
+- [Email](mailto:umang.kalavadiya@gmail.com)
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities. 🚀
+
+---
 
 <!--
-**umangkalavadiya/umangkalavadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+This README was crafted with care using skillicons.dev icons and tailored for an AI Engineer profile.
 -->

@@ -6,7 +6,9 @@ I am an AI Engineer with 2 years of experience crafting intelligent systems and 
 ---
 ## 🚀 Technologies & Tools
 
-https://skillicons.dev/icons?i=aws,django,docker,fastapi,react,nodejs,typescript,javascript,postgres,mongodb,mysql,redis,githubactions,fastapi
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,django,docker,fastapi,react,nodejs,typescript,javascript,postgres,mongodb,mysql,redis,githubactions" />
+</p>
 ---
 
 ## 👨‍💻 About Me

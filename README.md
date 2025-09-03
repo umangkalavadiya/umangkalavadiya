@@ -1,8 +1,8 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Umang Kalavadiya
 
 🚀 **AI Engineer | Backend Developer | Cloud Enthusiast**  
 💡 Passionate about **LLMs, RAG pipelines, scalable APIs, and cloud-native solutions**  
-📍 Based in [Your Location] | 🌐 Open for collaborations  
+📍 Based in Ahmedabad | 🌐 Open for collaborations  
 
 ---
 
@@ -43,10 +43,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://linkedin.com/in/umangkalavadiya"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:your.umang.kalavadiya@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
-⭐️ From [Your Name](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Your Name](https://github.com/umangkalavadiya)

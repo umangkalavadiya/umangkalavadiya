@@ -1,6 +1,17 @@
-<div align="center">
-  <img alt="Profile Header" src="https://conversa-chat.s3.ap-south-1.amazonaws.com/banner-dark+(1).svg" width="100%">
-</div>
+# 👋 Hi, I'm Umang Kalavadiya
+
+🚀 **AI Engineer | Backend Developer | Cloud Enthusiast**  
+💡 Passionate about **LLMs, RAG pipelines, scalable APIs, and cloud-native solutions**  
+📍 Based in Ahmedabad | 🌐 Open for collaborations  
+
+---
+
+## 🧑‍💻 About Me
+- 🔭 Currently working on **AI-powered applications** and **enterprise RAG systems**  
+- 🌱 Exploring **multi-agent orchestration**, **FastAPI microservices**, and **MLOps**  
+- 💬 Ask me about **AI/ML, Backend Systems, and Cloud Deployments**  
+- 🎯 Goal: To build **production-grade AI systems** that scale  
+- ⚡ Fun fact: I enjoy turning complex AI ideas into simple real-world products  
 
 ## Find Me At
 

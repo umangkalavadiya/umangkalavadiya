@@ -57,7 +57,7 @@ Feel free to reach out to me:
 <div style="display:flex;">
   <div style="width:'50%';" align="center">
     
-  ![Umang's Streak](https://github-readme-streak-stats.herokuapp.com/?user=umangkalavadiya&theme=tokyonight&hide_border=false)
+  ![Umang's Streak](https://github-readme-streak-stats.herokuapp.com?user=umangkalavadiya)](https://git.io/streak-stats)
   
   </div>
 

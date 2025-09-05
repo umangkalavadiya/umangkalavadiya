@@ -6,13 +6,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Currently working on **AI-powered applications** and **enterprise RAG systems**  
-- 🌱 Exploring **multi-agent orchestration**, **FastAPI microservices**, and **MLOps**  
-- 💬 Ask me about **AI/ML, Backend Systems, and Cloud Deployments**  
-- 🎯 Goal: To build **production-grade AI systems** that scale  
-- ⚡ Fun fact: I enjoy turning complex AI ideas into simple real-world products  
-
 ## Find Me At
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:umang.kalavadiya@gmail.com)

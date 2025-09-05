@@ -57,13 +57,13 @@ Feel free to reach out to me:
 <div style="display:flex;">
   <div style="width:'50%';" align="center">
     
-  ![Umang's Streak](https://github-readme-streak-stats.herokuapp.com?user=umangkalavadiya)]
+  ![Umang's Streak](https://github-readme-streak-stats.herokuapp.com/?user=umangkalavadiya&theme=tokyonight&hide_border=false)
   
   </div>
 
   <div style="width:'50%';" align="center">
     
-  ![Umang's Stats](https://github-readme-streak-stats.herokuapp.com/?user=umangkalavadiya&theme=tokyonight&hide_border=false)
+  ![Umang's Stats](https://github-readme-stats.vercel.app/api?username=umangkalavadiya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
   
   </div>
 
@@ -79,7 +79,7 @@ Feel free to reach out to me:
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=umangkalavadiya&theme=tokyonight&no-frame=true&row=1&column=7" alt="pankil-soni" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pankil-soni&theme=tokyonight&no-frame=true&row=1&column=7" alt="pankil-soni" />
   </a>
   
 </div>
@@ -87,9 +87,3 @@ Feel free to reach out to me:
 ---
 
 ### ✍️ Dev Quotes
-
-  <div style="width:'50%';" align="center">
-    
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  </div>

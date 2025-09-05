@@ -63,7 +63,7 @@ Feel free to reach out to me:
 
   <div style="width:'50%';" align="center">
     
-  ![Umang's Stats](https://github-readme-stats.vercel.app/api?username=umangkalavadiya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+  ![Umang's Stats](https://github-readme-streak-stats.herokuapp.com/?user=umangkalavadiya&theme=tokyonight&hide_border=false)
   
   </div>
 

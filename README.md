@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Umang Kalavadiya
 
-🚀 **AI Engineer | Backend Developer | Cloud Enthusiast**  
+🚀 **AI Engineer | Data Scientist | Backend Developer | Cloud Enthusiast**  
 💡 Passionate about **LLMs, RAG pipelines, scalable APIs, and cloud-native solutions**  
 📍 Based in Ahmedabad | 🌐 Open for collaborations  
 
